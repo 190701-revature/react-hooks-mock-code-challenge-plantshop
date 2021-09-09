@@ -41,6 +41,36 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Test",
+      "image": "https://media.glamour.com/photos/5ea89429e67f360008b064d8/master/w_1172,h_1412,c_limit/Pink%20Anthurium.png",
+      "price": 21,
+      "id": 8
+    },
+    {
+      "name": "test2",
+      "image": "https://media.glamour.com/photos/5ea89429e67f360008b064d8/master/w_1172,h_1412,c_limit/Pink%20Anthurium.png",
+      "price": 15,
+      "id": 9
+    },
+    {
+      "name": "test3",
+      "image": "https://media.glamour.com/photos/5ea89429e67f360008b064d8/master/w_1172,h_1412,c_limit/Pink%20Anthurium.png",
+      "price": 12,
+      "id": 10
+    },
+    {
+      "name": "test4",
+      "image": "https://media.glamour.com/photos/5ea89429e67f360008b064d8/master/w_1172,h_1412,c_limit/Pink%20Anthurium.png",
+      "price": 10,
+      "id": 11
+    },
+    {
+      "name": "Test5",
+      "image": "https://media.glamour.com/photos/5ea89429e67f360008b064d8/master/w_1172,h_1412,c_limit/Pink%20Anthurium.png",
+      "price": 8,
+      "id": 12
     }
   ]
 }
